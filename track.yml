@@ -1,0 +1,35 @@
+---
+track:
+    title: Welcome to Community-Powered Bootcamp
+    uuid: b182c83a-47c6-44d2-b354-ce55adfe25ac
+    topics:
+    -   title: Welcome
+        uuid: 720880e0-f9a9-4ed1-8a35-dece0f7fcd21
+        units:
+        -   title: Getting Started
+            uuid: e6ca5a38-56ba-47ce-a3b0-5d93384d8a1f
+            lessons:
+            -   title: Learn And The Power Of Community
+                uuid: da7f3946-b515-4ef9-830e-38b5a1382d26
+                contents:
+                -   title: Learn And The Power Of Community
+                    source: https://github.com/learn-co-curriculum/learn-and-the-power-of-community
+                    uuid: 879137a7-76e5-42b9-9397-9e85eb6836ea
+            -   title: Environment Setup
+                uuid: 2fcc6475-1219-4f53-9a08-14eb828b7cd1
+                contents:
+                -   title: Environment Setup
+                    source: https://github.com/learn-co-curriculum/environment-setup
+                    uuid: a7a629bf-0b0d-417f-bc7a-7894747c71db
+            -   title: Solving Your First Lab
+                uuid: 7c919a37-af4e-4b05-9019-995b44f37f93
+                contents:
+                -   title: Your First Lab
+                    source: https://github.com/learn-co-curriculum/your-first-lab
+                    uuid: 47e3e1e0-9830-42e0-8ac2-e74c5c47f0e9
+            -   title: public-lesson-test
+                uuid: d3e1ef13-1729-41e2-b35f-faefca48e677
+                contents:
+                -   title: Public Lesson Test
+                    source: https://github.com/DEV-learn-co-curriculum/public-lesson-test
+                    uuid: 681f001b-abc2-44a9-a2af-280f718b0048
